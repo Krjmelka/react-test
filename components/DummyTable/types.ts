@@ -1,4 +1,4 @@
 export type RowI = {
-  id: number
+  id: string
   title: string
 }
